@@ -36,12 +36,12 @@ include '../plantilla/base_principal.php';
                             <div class="carousel-inner">
                                 <div class="item active">
                                     <center>
-                                        <img class="img-responsive" src="../img/area_admin/producto_img/moto_g_6a.jpg" alt="Product 2-a">
+                                        <img class="img-responsive" src="../img/area_admin/producto_img/iphone_9.jpg" alt="Product 2-a">
                                     </center>
                                 </div>
                                 <div class="item">
                                     <center>
-                                        <img class="img-responsive" src="../img/area_admin/producto_img/moto_g_6b.jpg" alt="Product 2-b">
+                                        <img class="img-responsive" src="../img/area_admin/producto_img/iphone_9.jpg" alt="Product 2-b">
                                     </center>
                                 </div>
                                 <div class="item">
@@ -79,7 +79,7 @@ include '../plantilla/base_principal.php';
                                         <option>5</option>
                                     </select>
                                 </div><!--fin col md 7-->
-                            </div>
+                            </div><br>
 
                             <div class="form-group"><!--form group-->
                                 <label class="col-md-5 control-label">Tamaño</label>
@@ -93,7 +93,7 @@ include '../plantilla/base_principal.php';
                                 </div>
                             </div><!--fin form group-->
 
-                            <p class="price">$450000</p>
+                            <p class="price">$630000</p>
                             <p class="text-center buttons">
                                 <button class="btn btn-primary i fa fa-shopping-cart"> Añadir al carrito</button>
                             </p>
@@ -103,18 +103,18 @@ include '../plantilla/base_principal.php';
 
                     <div class="row" id="thumbs"><!--row thumbs-->
                         <div class="col-xs-4"><!--col xs 4-->
-                            <a href="" class="thumb">
+                            <a data-target="#myCarousel" data-slide-to="0"  href="" class="thumb">
                                 <img src="../img/area_admin/producto_img/iphone_9.jpg" alt="producto 1" class="img-responsive">
                             </a>
                         </div><!--fin col xs 4-->
                         <div class="col-xs-4"><!--col xs 4-->
-                            <a href="" class="thumb">
-                                <img src="../img/area_admin/producto_img/moto_g_6.jpg" alt="producto 2" class="img-responsive">
+                            <a data-target="#myCarousel" data-slide-to="1"  href="" class="thumb">
+                                <img src="../img/area_admin/producto_img/iphone_9.jpg" alt="producto 2" class="img-responsive">
                             </a>
                         </div><!--fin col xs 4-->
                         <div class="col-xs-4"><!--col xs 4-->
-                            <a href="" class="thumb">
-                                <img src="../img/area_admin/producto_img/iphone_9.jpg" alt="producto 3" class="img-responsive">
+                            <a data-target="#myCarousel" data-slide-to="2"  href="" class="thumb">
+                                <img src="../img/area_admin/producto_img//moto_g_6c.jpg" alt="producto 3" class="img-responsive">
                             </a>
                         </div><!--fin col xs 4-->
 
