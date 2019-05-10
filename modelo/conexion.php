@@ -151,7 +151,7 @@ class conexion {
       $codigo_tarifa = $this->limpiar_cadena($codigo_tarifa);
 
       //encriptamos los datos para verificar en la bd
-      $codigo_empresa = $this->encryption($codigo_empresa);
+$codigo_empresa = $this->encryption($codigo_empresa);
       $codigo_usuario = $this->encryption($codigo_usuario);
       $codigo_tarifa = $this->encryption($codigo_tarifa);
 

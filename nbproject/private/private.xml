@@ -3,15 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/backend/registra_usuario.php</file>
-            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/plantilla/head.php</file>
-            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/plantilla/base_principal.php</file>
-            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/dist/principal/css/style.css</file>
-            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/index.php</file>
-            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/dist/css/header_register_login.css</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/errores_comunes.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/funciones/ajax_generales.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/detalles.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/blog.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/dist/css/carro_compras.css</file>
             <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/soporte.php</file>
             <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/index.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/backend/funciones.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/menu_netflix.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/nuevo_producto.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/seguridad/valida_campos_login.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/modelo/conexion.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/index.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/contact.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/carrito.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/about.php</file>
             <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/pages/backend/registra_error.php</file>
+            <file>file:/C:/xampp/htdocs/plataforma_cel_comunicaciones/funciones/funciones.php</file>
         </group>
     </open-files>
 </project-private>

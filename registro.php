@@ -14,14 +14,14 @@ $conn = new conexion();
 echo $conn->decryption("OERpTVMzc2RIR2F3NjNUNFVDUmh3QT09");
 echo $conn->decryption("TFl3WUpEamdreFRpSWtKNFNNUmF1UT09");
 
-         
-                ?>
+        
+                   ?>
 
 <?php startblock('header') ?>
 
 <?php include './plantilla/register_login_header.php'; ?>
 
-<?php endblock() ?>
+<?php  endblock() ?>
 
 
 <?php startblock('content') ?>
@@ -32,7 +32,7 @@ echo $conn->decryption("TFl3WUpEamdreFRpSWtKNFNNUmF1UT09");
         <div class="row" style="background: white; height: 100%">
 
             <!-- /.register-box -->
-            <div id="register_box" >
+               <div id="register_box" >
                 <div class="register-box-body" id="frm_registro">
                     <div class="register-logo">
                         <a href=""><h5><b>Regístrate y haz parte de nuestra comunidad.</b></h5></a>
@@ -292,17 +292,6 @@ echo $conn->decryption("TFl3WUpEamdreFRpSWtKNFNNUmF1UT09");
 
 
 
-                    /* $('.i-checks').iCheck({
-                     checkboxClass: 'icheckbox_square-blue',
-                     radioClass: 'icheckbox_square-blue',
-                     }).on('ifChanged', function (e) {
-                     // Get the field name
-                     var isChecked = e.currentTarget.checked;
-                     
-                     if (isChecked == true) {
-                     alert("hola");
-                     }
-                     });*/
 </script>
 
 

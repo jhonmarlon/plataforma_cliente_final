@@ -161,8 +161,8 @@ echo $infoUsuario->nick_name;
                         <li class="active"><a href="index.php">Inicio</a></li>
                        <!-- <li><a href="soporte.php">Soporte</a></li>-->
                        <li><a href="tienda.php">Tienda</a></li>
-                       <li><a href="cuenta_usuario.php">Mi Cuenta</a></li>
-                       <li><a href="carro.php">Carrito de Compras</a></li>
+                       <li><a href="mi_cuenta.php">Mi Cuenta</a></li>
+                       <li><a href="carrito.php">Carrito de Compras</a></li>
            
                         <li><a href="contact.php">Contacto</a></li>
                         <li><a href="../seguridad/salir.php">Salir</a></li>

@@ -18,7 +18,7 @@ include '../plantilla/base_principal.php';
             <div class="col-md-4 company_ad">
                 <h2>Datos de contacto :</h2>
                 <address>
-                    <p>Cel COmunicaciones,</p>
+                    <p>Cel Comunicaciones,</p>
                     <p>Avenida 38 # 51 183, Medellín - Bello,</p>
                     <p>Colombia</p>
                     <p>Línea directa:(57) 310-4616869</p>
